@@ -17,3 +17,11 @@ public:
        return {x,y};
        }
 };
+/*
+If we only wantto return yes/no then:-
+  Use 2 pointer approach :-
+    Step-1:-Sort the Array
+    Step-2:-Put left pointer at 0th index and reght pointer at (n-1)th index
+    Step-3:-If arr[left]+arr[right]>target right-- else left++
+    Step-4:-If arr[left]+arr[right]==target return yes at last return No
+*/
