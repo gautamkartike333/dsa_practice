@@ -1,4 +1,5 @@
-Prob Link:-"https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/"
+Search el in rotated sorted array-2 ->iss  wale ko karo toh isase pehle wala search el in rotated sorted arr-1 automatically ho jaaega
+Prob Link:-"https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/"
 
 Hint:-
     Hint:check which half is sorted
