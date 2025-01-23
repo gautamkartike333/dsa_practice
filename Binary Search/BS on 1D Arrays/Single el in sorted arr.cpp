@@ -1,5 +1,7 @@
     Prob Link:"https://leetcode.com/problems/single-element-in-a-sorted-array/"
 
+1st approach-> XOR (but it will take O(N))
+    We want solution in O(logN) ->toh jab bhi logN ka puche toh ek hi technique hai ->BINARY SEARCH
 Hint:
     Jo single el hai , uske left and right half ko chota karne ki socho ->haan mujhe pata hai tum yhi soch rhe ho kaise?? but iska ans mil gya toh ques hi solve ho jaaega fir toh -> isiliye socho-socho dont look solution
 
